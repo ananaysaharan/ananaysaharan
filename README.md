@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananay</h1>
 <h3 align="center">Trying to build cool stuff!!</h3>
 
-- 🌱 I’m currently learning **Backend(I hate Frontend)**
+- 🌱 I’m currently learning **Backend(Frontend Sucks)**
 
 - 💬 Ask me about **Fighterjets**
 
